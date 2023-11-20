@@ -10,7 +10,7 @@ header = {
 }
 
 api_base_url = {
-    "C": "http://x.x.x.x:3000",  # 网易云音乐API
+    "C": "https://music-api.erduo.tech",  # 网易云音乐API
     # "Q": "http://x.x.x.x:3300",  # QQ音乐API
 }
 
